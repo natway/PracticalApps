@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "924a50b6-5981-40dd-a092-4548d9d7af4b": {
+      "ProjectGuid": "924a50b6-5981-40dd-a092-4548d9d7af4b",
+      "DisplayName": "Northwind.Common.EntityModels.SqlServer",
+      "ColorIndex": 0
+    },
+    "7c6c855f-9644-4841-9f13-c3d78d644d52": {
+      "ProjectGuid": "7c6c855f-9644-4841-9f13-c3d78d644d52",
+      "DisplayName": "Northwind.Common.EntityModels.SqlServer",
+      "ColorIndex": 1
+    },
+    "fd8541cb-0403-4e0d-951f-b54b8b7f265b": {
+      "ProjectGuid": "fd8541cb-0403-4e0d-951f-b54b8b7f265b",
+      "DisplayName": "Northwind.Common.DataContext.SqlServer",
+      "ColorIndex": 2
+    },
+    "49bb395d-e5cb-4d32-95fb-4badd5118ac0": {
+      "ProjectGuid": "49bb395d-e5cb-4d32-95fb-4badd5118ac0",
+      "DisplayName": "Northwind.Web",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "d794eb18-fcf4-45cc-bc4b-5a3c55cf2a76": {
+      "ProjectGuid": "d794eb18-fcf4-45cc-bc4b-5a3c55cf2a76",
+      "DisplayName": "Northwind.Razor.Employees",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

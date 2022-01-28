@@ -1,0 +1,14 @@
+C:\Code\PracticalApps\PracticalApps\Northwind.Common.EntityModels.SqlServer\bin\Debug\net6.0\Northwind.Common.EntityModels.SqlServer.deps.json
+C:\Code\PracticalApps\PracticalApps\Northwind.Common.EntityModels.SqlServer\bin\Debug\net6.0\Northwind.Common.EntityModels.SqlServer.dll
+C:\Code\PracticalApps\PracticalApps\Northwind.Common.EntityModels.SqlServer\bin\Debug\net6.0\ref\Northwind.Common.EntityModels.SqlServer.dll
+C:\Code\PracticalApps\PracticalApps\Northwind.Common.EntityModels.SqlServer\bin\Debug\net6.0\Northwind.Common.EntityModels.SqlServer.pdb
+C:\Code\PracticalApps\PracticalApps\Northwind.Common.EntityModels.SqlServer\obj\Debug\net6.0\Northwind.Common.EntityModels.SqlServer.csproj.AssemblyReference.cache
+C:\Code\PracticalApps\PracticalApps\Northwind.Common.EntityModels.SqlServer\obj\Debug\net6.0\Northwind.Common.EntityModels.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\PracticalApps\PracticalApps\Northwind.Common.EntityModels.SqlServer\obj\Debug\net6.0\Northwind.Common.EntityModels.SqlServer.AssemblyInfoInputs.cache
+C:\Code\PracticalApps\PracticalApps\Northwind.Common.EntityModels.SqlServer\obj\Debug\net6.0\Northwind.Common.EntityModels.SqlServer.AssemblyInfo.cs
+C:\Code\PracticalApps\PracticalApps\Northwind.Common.EntityModels.SqlServer\obj\Debug\net6.0\Northwind.Common.EntityModels.SqlServer.csproj.CoreCompileInputs.cache
+C:\Code\PracticalApps\PracticalApps\Northwind.Common.EntityModels.SqlServer\obj\Debug\net6.0\Northwind.Common.EntityModels.SqlServer.dll
+C:\Code\PracticalApps\PracticalApps\Northwind.Common.EntityModels.SqlServer\obj\Debug\net6.0\ref\Northwind.Common.EntityModels.SqlServer.dll
+C:\Code\PracticalApps\PracticalApps\Northwind.Common.EntityModels.SqlServer\obj\Debug\net6.0\Northwind.Common.EntityModels.SqlServer.pdb
+C:\Code\PracticalApps\PracticalApps\Northwind.Common.EntityModels.SqlServer\bin\Debug\net6.0\Northwind.Common.EntityModels.SqlServer.runtimeconfig.json
+C:\Code\PracticalApps\PracticalApps\Northwind.Common.EntityModels.SqlServer\obj\Debug\net6.0\Northwind.Common.EntityModels.SqlServer.genruntimeconfig.cache

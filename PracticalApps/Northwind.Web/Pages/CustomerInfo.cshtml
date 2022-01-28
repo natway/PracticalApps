@@ -1,0 +1,63 @@
+﻿@page
+@using Packt.Shared
+@model Northwind.Web.Pages.CustomerInfoModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<div class="row">
+    <h1 class="display-2">Customer Info</h1>
+    <table class="table">
+        <thead class="thead-inverse">
+            <tr>
+                <th>Company Name</th>
+                <th>Country</th>
+                <th>Contact</th>
+                <th>Phone</th>
+                <th>Fax</th>
+                </tr>
+        </thead>
+        <tbody>
+            @if (Model.customer is not null)
+            {
+                Customer c = Model.customer;
+            
+                <tr>
+                        <td>@Model.customer.CompanyName</td>
+                        <td>@Model.customer.Country</td>
+                        <td>@Model.customer.ContactName</td>
+                        <td>@Model.customer.Phone</td>
+                        <td>@Model.customer.Fax</td>
+                        
+                </tr>
+            }
+            else
+            {
+               <tr><td> null cutsomer</td></tr> 
+            }
+            
+        </tbody>
+    </table>
+    <table class="table">
+        <thead class="thead-inverse">
+            <tr>
+            <th>Orders</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model.customer is not null)
+            {
+                Customer c = Model.customer;
+            
+                <tr>
+                    <!---TODO: add orders table-->
+                        <td>@Model.customer.Orders.Count()</td>
+                        
+                </tr>
+            }
+            else
+            {
+               <tr><td> null cutsomer</td></tr> 
+            }
+            
+        </tbody>
+
+    </table>
+    </div>
